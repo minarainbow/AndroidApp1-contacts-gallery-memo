@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\user\Desktop\androidtest-d7f368290ad2b317a7e5a1d704f1f22848da1147\androidtest-d7f368290ad2b317a7e5a1d704f1f22848da1147\MyApplication4.iml" filepath="C:\Users\user\Desktop\androidtest-d7f368290ad2b317a7e5a1d704f1f22848da1147\androidtest-d7f368290ad2b317a7e5a1d704f1f22848da1147\MyApplication4.iml" />
+      <module fileurl="file://C:\Users\user\Downloads\forTab1-master\forTab1-master\androidtest-d7f368290ad2b317a7e5a1d704f1f22848da1147.iml" filepath="C:\Users\user\Downloads\forTab1-master\forTab1-master\androidtest-d7f368290ad2b317a7e5a1d704f1f22848da1147.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\user\Desktop\week1_2-master json\week1_2-master\forTab1-master.iml" filepath="C:\Users\user\Desktop\week1_2-master json\week1_2-master\forTab1-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-2.2.2/gson-2.2.2.iml" filepath="$PROJECT_DIR$/gson-2.2.2/gson-2.2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-all-1.9.0/jackson-all-1.9.0.iml" filepath="$PROJECT_DIR$/jackson-all-1.9.0/jackson-all-1.9.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-annotations-2.2.3/jackson-annotations-2.2.3.iml" filepath="$PROJECT_DIR$/jackson-annotations-2.2.3/jackson-annotations-2.2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-core-2.1.1/jackson-core-2.1.1.iml" filepath="$PROJECT_DIR$/jackson-core-2.1.1/jackson-core-2.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-core-asl/jackson-core-asl.iml" filepath="$PROJECT_DIR$/jackson-core-asl/jackson-core-asl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-databind-2.1.1/jackson-databind-2.1.1.iml" filepath="$PROJECT_DIR$/jackson-databind-2.1.1/jackson-databind-2.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson-mapper-asl-1.9.13/jackson-mapper-asl-1.9.13.iml" filepath="$PROJECT_DIR$/jackson-mapper-asl-1.9.13/jackson-mapper-asl-1.9.13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_2-master.iml" filepath="$PROJECT_DIR$/week1_2-master.iml" />
+    </modules>
+  </component>
+</project>
